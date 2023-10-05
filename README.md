@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @branquiinha629
-- 👀 eu gosto de ouvir musica
+- 👋 oii, @branquiinha629
+- 👀 eu gosto de ouvir musica e f1
 - 🌱 html
 - 📫 How to reach me ...
 <!---
